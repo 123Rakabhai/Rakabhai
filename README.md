@@ -2,12 +2,12 @@
   <br>
   <a href="https://github.com/TheSpeedX/TBomb"><img src="https://i.ibb.co/F4HBKqm/TBomb.png" alt="TBomb"></a>
   <br>
-  TBomb v2.1b
+  RAKABHAI HACKER
   <br>
 </h1>
 
 
-<p align="center">A free and open-source SMS/Call bombing application</p>
+<p align="center">THIS TYPE OF UNLIMITED FREE SMS,EMAIL,CALL </p>
 
 ## NOTE:
 
